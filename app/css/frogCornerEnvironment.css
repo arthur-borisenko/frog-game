@@ -1,0 +1,75 @@
+#kuvshinka-1 {
+    position: relative;
+    left: 200px;
+    top: -100px
+}
+
+#kuvshinka-2 {
+    position: relative;
+    left: -40px;
+    top: 200px
+}
+
+#kuvshinka-3 {
+    position: relative;
+    left: 335px;
+    top: -100px
+}
+#win,#lose{
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+#kuvshinka-4 {
+    position: relative;
+    left: 300px;
+    top: 100px
+}
+
+#kuvshinka-5 {
+    position: relative;
+    left: -40px;
+    top: 100px
+}
+
+#a {
+    position: inherit;
+}
+
+#b {
+    position: inherit;
+}
+
+#c {
+    position: inherit;
+}
+
+#d {
+    position: inherit;
+}
+
+#e {
+    position: inherit;
+}
+
+#frog1 {
+    position: inherit;
+}
+
+#frog2 {
+    position: inherit;
+}
+
+#frog3 {
+    position: inherit;
+}
+
+#frog4 {
+    position: inherit;
+}
+
+#frog5 {
+    position: inherit;
+}
+h1{position: inherit}
+button{position: inherit}
